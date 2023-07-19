@@ -100,7 +100,7 @@ service-worker: true
 friends: [
     {
         title: "个人简历",
-        href: "/files/introduce.pdf"
+        href: "/files/西安电子科技大学-邓力珲-软件研发工程师.pdf"
     },{
         title: "星球语互动社区",
         href: "https://tieba.baidu.com/f?kw=%E6%A0%BC%E7%BD%97%E6%AF%94%E8%A8%80&fr=home"
