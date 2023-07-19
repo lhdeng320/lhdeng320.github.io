@@ -4,7 +4,7 @@ SEOTitle: 未来属于一心实现自己预言的人
 header-img: img/post-bg-desk.jpg
 email: lhdeng320@gmail.com
 description: "Welcome,I am lhdeng."
-keyword: "人工语言, 国际语, 世界语, 三叶草国际语, 三叶语"
+keyword: "人工语言, 国际语, 世界语"
 url: "https://lhdeng320.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/lhdeng320/lhdeng320.github.io.git" # you code repository
@@ -86,7 +86,7 @@ gitalk:
 
 # Featured Tags
 featured-tags: true                     # 是否使用首页标签
-featured-condition-size: 1              # 相同标签数量大于这个数，才会出现在首页
+featured-condition-size: 0              # 相同标签数量大于这个数，才会出现在首页
 
 
 
@@ -99,8 +99,8 @@ service-worker: true
 # 友情链接，请尽量不要删除，谢谢！
 friends: [
     {
-        title: "星球国际语",
-        href: "https://globien.gitee.io"
+        title: "个人简历",
+        href: "/files/introduce.pdf"
     },{
         title: "星球语互动社区",
         href: "https://tieba.baidu.com/f?kw=%E6%A0%BC%E7%BD%97%E6%AF%94%E8%A8%80&fr=home"
